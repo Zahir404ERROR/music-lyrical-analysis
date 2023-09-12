@@ -1,0 +1,27 @@
+Libraries Used:
+
+numpy
+pandas 
+matplotlib
+seaborn
+bs4
+requests
+warnings
+unidecode
+re
+networkx as nx
+string
+nltk
+
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from nltk import sent_tokenize, word_tokenize
+from nltk.corpus import webtext
+from nltk.probability import FreqDist
+from wordcloud import WordCloud
+from wordcloud import STOPWORDS
+
+File Size:
+
+Notebook: 3,468 KB
+
+Dataset: 8221 KB
